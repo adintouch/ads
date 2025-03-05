@@ -1,7 +1,7 @@
 # ads
 
 
-#### 1.saturntvs.com
+#### 1.saturntvs.com/app-ads.txt
 - adintouch.com, 10058, DIRECT
 - taurusx.com, 80073, reseller
 - webeyemob.com, 80073, reseller
@@ -18,7 +18,7 @@
 - pubmatic.com, 165239, RESELLER, 5d62403b186f2ace
 
 
-#### 2.yun-hub.chat
+#### 2.yun-hub.chat/app-ads.txt
 - adintouch.com, 10059, DIRECT
 - taurusx.com, 80073, reseller
 - webeyemob.com, 80073, reseller
@@ -35,7 +35,7 @@
 - pubmatic.com, 165239, RESELLER, 5d62403b186f2ace
 
 
-#### 3.soolingmini.com
+#### 3.soolingmini.com/app-ads.txt
 - adintouch.com, 10060, DIRECT
 - taurusx.com, 80073, reseller
 - webeyemob.com, 80073, reseller
@@ -52,7 +52,7 @@
 - pubmatic.com, 165239, RESELLER, 5d62403b186f2ace
 
 
-#### 4.maxleveldev.com
+#### 4.maxleveldev.com/app-ads.txt
 - adintouch.com, 10061, DIRECT
 - taurusx.com, 80073, reseller
 - webeyemob.com, 80073, reseller
@@ -69,7 +69,7 @@
 - pubmatic.com, 165239, RESELLER, 5d62403b186f2ace
 
 
-#### 5.cavestyle.fun
+#### 5.cavestyle.fun/app-ads.txt
 - adintouch.com, 10062, DIRECT
 - taurusx.com, 80073, reseller
 - webeyemob.com, 80073, reseller
@@ -86,7 +86,7 @@
 - pubmatic.com, 165239, RESELLER, 5d62403b186f2ace
 
 
-#### 6.alexgames.tech
+#### 6.alexgames.tech/app-ads.txt
 - adintouch.com, 10063, DIRECT
 - taurusx.com, 80073, reseller
 - webeyemob.com, 80073, reseller
@@ -103,7 +103,7 @@
 - pubmatic.com, 165239, RESELLER, 5d62403b186f2ace
 
 
-#### 7.funsimulation.fun
+#### 7.funsimulation.fun/app-ads.txt
 - adintouch.com, 10064, DIRECT
 - taurusx.com, 80073, reseller
 - webeyemob.com, 80073, reseller
@@ -120,7 +120,7 @@
 - pubmatic.com, 165239, RESELLER, 5d62403b186f2ace
 
 
-#### 8.happymobilegame.top
+#### 8.happymobilegame.top/app-ads.txt
 - adintouch.com, 10065, DIRECT
 - taurusx.com, 80073, reseller
 - webeyemob.com, 80073, reseller
@@ -137,7 +137,7 @@
 - pubmatic.com, 165239, RESELLER, 5d62403b186f2ace
 
 
-#### 9.wingsmob.top
+#### 9.wingsmob.top/app-ads.txt
 - adintouch.com, 10066, DIRECT
 - taurusx.com, 80073, reseller
 - webeyemob.com, 80073, reseller
@@ -154,7 +154,7 @@
 - pubmatic.com, 165239, RESELLER, 5d62403b186f2ace
 
 
-#### 10.stagames.fun
+#### 10.stagames.fun/app-ads.txt
 - adintouch.com, 10067, DIRECT
 - taurusx.com, 80073, reseller
 - webeyemob.com, 80073, reseller
@@ -171,7 +171,7 @@
 - pubmatic.com, 165239, RESELLER, 5d62403b186f2ace
 
 
-#### 11.yamtarsimulatorgames.com
+#### 11.yamtarsimulatorgames.com/app-ads.txt
 - adintouch.com, 10068, DIRECT
 - taurusx.com, 80073, reseller
 - webeyemob.com, 80073, reseller
@@ -188,7 +188,7 @@
 - pubmatic.com, 165239, RESELLER, 5d62403b186f2ace
 
 
-#### 12.mob3dgamers.top
+#### 12.mob3dgamers.top/app-ads.txt
 - adintouch.com, 10069, DIRECT
 - taurusx.com, 80073, reseller
 - webeyemob.com, 80073, reseller
@@ -205,7 +205,7 @@
 - pubmatic.com, 165239, RESELLER, 5d62403b186f2ace
 
 
-#### 13.secretdragon.online
+#### 13.secretdragon.online/app-ads.txt
 - adintouch.com, 10070, DIRECT
 - taurusx.com, 80073, reseller
 - webeyemob.com, 80073, reseller
@@ -222,7 +222,7 @@
 - pubmatic.com, 165239, RESELLER, 5d62403b186f2ace
 
 
-#### 14.gameborn.bio
+#### 14.gameborn.bio/app-ads.txt
 - adintouch.com, 10071, DIRECT
 - taurusx.com, 80073, reseller
 - webeyemob.com, 80073, reseller
@@ -239,7 +239,7 @@
 - pubmatic.com, 165239, RESELLER, 5d62403b186f2ace
 
 
-#### 15.funmetstudio.xyz
+#### 15.funmetstudio.xyz/app-ads.txt
 - adintouch.com, 10072, DIRECT
 - taurusx.com, 80073, reseller
 - webeyemob.com, 80073, reseller
